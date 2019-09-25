@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.ant-menu-horizontal {
+  background-image: linear-gradient(#0032ff85, #0008ffab) !important;
+  
+}
+.ant-menu-item>a
+{
+  color: rgb(235, 195, 18) !important;
+}
